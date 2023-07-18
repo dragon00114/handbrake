@@ -1,0 +1,5 @@
+node_modules
+bin/HandbrakeCLI
+bin/HandbrakeCLI*
+tmp
+out
